@@ -1,12 +1,4 @@
-[21372:24072:1225/133334.892:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[21372:15884:1225/133335.078:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[21372:24072:1225/133335.317:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[21372:17588:1225/133348.190:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[21372:24072:1225/141140.699:ERROR:device_event_log_impl.cc(196)] [14:11:40.562] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
-[25960:18688:1225/160046.869:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[25960:6836:1225/160048.166:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[25960:18688:1225/160049.878:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[21372:24072:1225/160115.732:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
-[25960:18688:1225/160119.577:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
-[25960:17864:1225/160125.542:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[25960:18688:1225/161043.484:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[25988:13272:1225/162245.632:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[25988:13608:1225/162245.996:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[25988:13272:1225/162246.194:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[25988:19656:1225/162304.951:ERROR:cast_crl.cc(443)] CRL - Verification failed.
