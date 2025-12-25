@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/leora/OneDrive/Documents/Autre/JV2_UnrealPlatformer 5.7 - 3/Content/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/leora/OneDrive/Documents/Autre/JV2_UnrealPlatformer 5.7 - 3/Content/Blueprints/BP_Gunpowder.uasset",
+				"C:/Users/leora/OneDrive/Documents/Autre/JV2_UnrealPlatformer 5.7 - 3/Content/Blueprints/BP_Fuse_Ignited.uasset",
 				"D:/Unreal_Projects/JV2_RAU_LEO_Plat/JV2_UnrealPlatformer/Content/Blueprints/BP_Barrel.uasset",
 				"D:/Unreal_Projects/JV2_RAU_LEO_Plat/JV2_UnrealPlatformer/Content/Levels/Lvl_test.umap",
 				"D:/Unreal_Projects/JV2_RAU_LEO_Plat/JV2_UnrealPlatformer/Content/Blueprints/BP_TNT.uasset",
